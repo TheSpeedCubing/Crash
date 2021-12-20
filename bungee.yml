@@ -1,0 +1,4 @@
+name: Crash
+main: speedcubing.crash.BungeeMain
+version: 1.0
+author: speedcubing
